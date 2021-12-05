@@ -1,0 +1,35 @@
+body{
+  background-color:whitesmoke;
+}
+.background{
+  height: 1400px;
+  width: 1903px;
+  margin-top: -8px;
+  margin-left: -8px;
+}
+.Business{
+  border-radius:50px;  
+  width:500px;
+  height:500px;
+  margin-left:50px;
+ 
+}
+.para{
+  color:aqua;
+  font-size:x-large;
+  text-align:center;
+  border :3px solid orange;
+  margin-top:50px;
+  font-weight: 100;
+  font-family: Arial, Helvetica, sans-serif;
+}  
+.head{
+  color:orangered;
+}
+.sanjith{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:70px;
+}  
+
+  
